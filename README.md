@@ -2,7 +2,7 @@ Training
 ========
 [linuxとvi、vimのコマンド](linux-vi-vim-command)
 
-[オブジェクト指向(Object-Oriented)
+[オブジェクト指向](Object-Oriented)
 
 [gitHub、pull requestとRuby]( 	GitHub-pull-rq--Ruby-1-3-)
 
